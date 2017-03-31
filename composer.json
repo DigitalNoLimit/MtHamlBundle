@@ -1,5 +1,5 @@
 {
-    "name": "mthaml/mthaml-bundle",
+    "name": "dnl/mthaml-bundle",
     "type": "symfony-bundle",
     "description": "This Bundle provides a HAML templating engine",
     "keywords": ["HAML"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": "^5.3.3|^7.0",
-        "mthaml/mthaml": "~1.3",
+        "dnl/mthaml": "dev-master",
         "symfony/framework-bundle": "~2.3|~3.0",
         "symfony/twig-bundle": "~2.3|~3.0"
     },
